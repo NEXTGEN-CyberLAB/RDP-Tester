@@ -35,7 +35,7 @@ A comprehensive PowerShell script for diagnosing and troubleshooting Remote Desk
 
 1. Clone this repository or download the script:
 ```powershell
-git clone https://github.com/yourusername/rdp-troubleshooter.git
+git clone [https://github.com/yourusername/rdp-troubleshooter.git](https://github.com/NEXTGEN-CyberLAB/RDP-Tester.git)
 ```
 
 2. Ensure PowerShell execution policy allows script execution:
