@@ -4,7 +4,7 @@ A comprehensive PowerShell script for diagnosing and troubleshooting Remote Desk
 
 ## Features
 
-- **Interactive Credential Collection**
+- **Interactive Script**
   - Support for both local and domain accounts
   - Secure password handling using SecureString
   - Flexible testing options for different account types
